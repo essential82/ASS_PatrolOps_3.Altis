@@ -1,0 +1,1 @@
+_veh = "Box_NATO_AmmoOrd_F" createVehicle position player;
